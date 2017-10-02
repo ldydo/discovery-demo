@@ -1,0 +1,10 @@
+info:
+  version: @project.version@
+
+endpoints:
+  enabled: false
+  info:
+    enabled: true
+    sensitive: false
+  health:
+    enabled: true
